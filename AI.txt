@@ -5,4 +5,4 @@ Improved AI model accuracy by optimizing the training pipeline and hyperparamete
 Everything is solved - AI.txt is complied and happy !. Ready to merge !!
 
 
-I have added more Something AI releated to AI.txt
+I have added more Something AI releated to AI.txtCritical AI bug fixed in this commit
