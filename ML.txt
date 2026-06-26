@@ -1,1 +1,2 @@
 Machine Learning notes
+Refactored ML preprocessing steps to handle missing values and outliers more effectively
