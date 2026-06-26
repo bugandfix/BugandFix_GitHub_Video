@@ -3,3 +3,6 @@ Updated AI content
 Improved AI model accuracy by optimizing the training pipeline and hyperparameters 
 
 Everything is solved - AI.txt is complied and happy !. Ready to merge !!
+
+
+I have added more Something AI releated to AI.txt
