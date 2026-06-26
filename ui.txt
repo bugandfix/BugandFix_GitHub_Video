@@ -1,1 +1,2 @@
 User interface
+Fixed critical UI rendering bug that caused layout shifts on mobile devices
